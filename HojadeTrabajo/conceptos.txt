@@ -1,0 +1,12 @@
+¿Que se entiende por Commit?
+Comit se entiende a suministrar un conjunto de cambios de forma permanente hacia algo que ya se habia establecido.
+
+¿que se entiende como merge?
+
+Merge se entiende por mezclar algo establecido con los cambios.
+
+
+Diferencia entre pull y push
+
+Push el prestador de servicios empuja el contenido hacia el usuario, mientras que pull es aquella en el que 
+el usuario tira del contenido.

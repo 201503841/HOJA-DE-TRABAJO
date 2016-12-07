@@ -91,7 +91,7 @@ namespace HojadeTrabajo
             }
             //resta de las variables del contador
 
-            label1.Text = conta4.ToString();
+            label1.Text = conta4.ToString() + -201503841;
         }
         public void repetidos()
         {

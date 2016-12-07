@@ -31,6 +31,11 @@ namespace HojadeTrabajo
 
         }
 
+        private void button4_Click(object sender, EventArgs e)
+        {
+            repetidos();
+        }
+
         private void button3_Click(object sender, EventArgs e)
         {
             vocales();
@@ -87,6 +92,29 @@ namespace HojadeTrabajo
             //resta de las variables del contador
 
             label1.Text = conta4.ToString();
+        }
+        public void repetidos()
+        {
+            char[] Arraycadena;
+            char caracter;
+            int contador = 0;
+            palabra = textBox1.Text;
+            Arraycadena =palabra.ToCharArray();
+            for (int k=0; k < Arraycadena.Length; k++)
+            {
+                caracter = Arraycadena[k];
+                for (int j= 0; j < Arraycadena.Length; j++)
+                {
+                    if (Arraycadena[j]==caracter)
+                    {
+                        contador++;
+                    }
+                }
+
+                label1.Text = Arraycadena[k].ToString() + "->" + contador;
+                contador = 0;
+            }
+
         }
 
     }

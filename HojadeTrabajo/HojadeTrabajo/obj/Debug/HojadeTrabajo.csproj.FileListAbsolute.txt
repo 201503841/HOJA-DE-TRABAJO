@@ -1,0 +1,9 @@
+c:\users\suseth\documents\visual studio 2015\Projects\HojadeTrabajo\HojadeTrabajo\bin\Debug\HojadeTrabajo.exe.config
+c:\users\suseth\documents\visual studio 2015\Projects\HojadeTrabajo\HojadeTrabajo\bin\Debug\HojadeTrabajo.exe
+c:\users\suseth\documents\visual studio 2015\Projects\HojadeTrabajo\HojadeTrabajo\bin\Debug\HojadeTrabajo.pdb
+c:\users\suseth\documents\visual studio 2015\Projects\HojadeTrabajo\HojadeTrabajo\obj\Debug\HojadeTrabajo.csprojResolveAssemblyReference.cache
+c:\users\suseth\documents\visual studio 2015\Projects\HojadeTrabajo\HojadeTrabajo\obj\Debug\HojadeTrabajo.Form1.resources
+c:\users\suseth\documents\visual studio 2015\Projects\HojadeTrabajo\HojadeTrabajo\obj\Debug\HojadeTrabajo.Properties.Resources.resources
+c:\users\suseth\documents\visual studio 2015\Projects\HojadeTrabajo\HojadeTrabajo\obj\Debug\HojadeTrabajo.csproj.GenerateResource.Cache
+c:\users\suseth\documents\visual studio 2015\Projects\HojadeTrabajo\HojadeTrabajo\obj\Debug\HojadeTrabajo.exe
+c:\users\suseth\documents\visual studio 2015\Projects\HojadeTrabajo\HojadeTrabajo\obj\Debug\HojadeTrabajo.pdb

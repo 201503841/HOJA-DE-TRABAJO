@@ -14,7 +14,7 @@ namespace HojadeTrabajo
     {
 
         string palabra, temporal;
-        int conta1, conta2, conta3,consonantes1;
+        int conta1, conta2, conta3,conta4,consonantes1;
         
         public Form1()
         {
@@ -29,6 +29,11 @@ namespace HojadeTrabajo
         {
             palabraalreves();
 
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            vocales();
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -64,6 +69,24 @@ namespace HojadeTrabajo
             consonantes1= conta1 - conta2;
             label1.Text = consonantes1.ToString();
             
+        }
+        private void vocales()
+        {
+            palabra = textBox1.Text;
+            for (int i = 0; i < palabra.Length; i++)
+            {
+                conta3++;
+            }
+            for (int i = 0; i < palabra.Length; i++)
+            {
+                if ((palabra[i] == 'a') || (palabra[i] == 'e') || (palabra[i] == 'i') || (palabra[i] == 'o') || (palabra[i] == 'u'))
+                {
+                    conta4++;
+                }
+            }
+            //resta de las variables del contador
+
+            label1.Text = conta4.ToString();
         }
 
     }
